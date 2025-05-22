@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+text-align: center;
+  
+}
+h1 {
+    color: #000000;
+    margin-top: 20px;
+}           
+h2 {
+    background-color: #da0000;
+    margin-top: 10px;
+    padding: 15px 32px;
+    color: white;   
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}   
+
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+   
+.button {
+    background-color: #000000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
